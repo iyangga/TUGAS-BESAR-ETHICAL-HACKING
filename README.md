@@ -1,8 +1,8 @@
 # Tugas Besar Keamanan Jaringan
 
-Nama   : iyangga  
-NIM    : (isi NIM Anda)  
-Kelas  : (isi kelas Anda)  
+Nama   : ERLANGGA
+NIM    : 105841117022
+Kelas  : JK-A
 
 ## Deskripsi
 Repository ini berisi hasil Tugas Besar mata kuliah Keamanan Jaringan yang mencakup tahapan Passive Reconnaissance dan Active Reconnaissance. Seluruh aktivitas dilakukan untuk kepentingan akademik dan berada dalam batasan etika pengujian keamanan.
